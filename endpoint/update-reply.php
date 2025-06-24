@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo "
             <script>
                 alert('Por favor, preencha todos os campos!');
-                window.location.href = 'https://asasdev.com.br/comentarios/';
+                window.location.href = 'https://SEU_SITE_AQUI.com.br/comentarios/';
             </script>
         ";
     }
