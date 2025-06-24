@@ -2,7 +2,7 @@
   <br>
   <h1>Sistema de comentários em PHP</h1>  
 <p>
-  <a href="https://asasdev.com.br/comentarios/" target="_blank">
+  <a href="https://asasdev.com.br/comentarios/">
     <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
   </a>
 </p>
